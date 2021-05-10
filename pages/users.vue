@@ -68,9 +68,6 @@ export default {
       data: []
     }
   }),
-  metaInfo: {
-    title: "Штрафи | Hover Ukraine"
-  },
   methods: {
     handlePageChange (value) {
       this.page = value;
